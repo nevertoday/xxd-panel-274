@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 274"
+  short_description: "夜色蜡笔：上半保留原照，下半把主体收成深色纸上的蜡笔小标志"
+  default_prompt: "Use $xxd-panel-274 to transform my photograph following the complete canonical source brief."
