@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 274｜Night Crayon: keeps the photo and draws its most recognisable subject as one small artist's mark on black or deep-toned paper, in glowing, childlike crayon, pastel and oil-pastel lines that wobble, break and repeat — soft candy colours such as pink, coral, lavender, powder blue, mint and warm yellow used as scattered light, chalk traces and crayon fragments rather than fills — with a few stars, rings or tiny geometric marks, lots of dark empty space and, if any text, a very small hand-printed word. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-274 or asks for a crayon-on-black symbol, glowing naive pastel logo or dark-paper doodle mark from a photo.",
+  "short_description": "夜色蜡笔：在深色纸面上，用发光般的糖果色蜡笔线条把主体画成一枚小标志",
+  "zh-CN": {
+    "name": "夜色蜡笔",
+    "tagline": "在黑色纸面上，用发光般的彩色蜡笔线条把照片主体画成一枚小标志。",
+    "look": "原照片保留；主体只剩最核心的姿态、比例或剪影，用蜡笔、粉彩、油画棒般的彩色线条画在黑色或深色纸面上。线条会轻微抖动、断开、反复描，像有人在纸上随手留下的一笔记忆。颜色是粉红、珊瑚、薰衣草紫、粉蓝、薄荷绿、暖黄这类柔和的亮色，不涂满，而像散落的光点和蜡笔碎屑，旁边可有几颗星点、圆环或小几何符号。符号小，四周是大片黑色留白，如有文字也只是一行极小的手工印刷感小字。",
+    "traits": ["深色纸面", "蜡笔彩线", "童稚笔触", "发光痕迹", "小标志"],
+    "good": [
+      "姿态或剪影一眼能认出的主体：跳舞的人、蹲坐的猫、一棵孤树",
+      "形状独特的建筑或物件：灯塔、摩天轮、一把吉他",
+      "想做成夜晚氛围、香氛或童书感小标志的照片"
+    ],
+    "poor": [
+      "需要浅色、明亮底色的用途，这个风格的底色始终是深色",
+      "靠细节和质感取胜的照片：精密产品、写实肖像、复杂纹理",
+      "想要完整插画、商业卡通 Logo、3D 或光滑矢量效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Night Crayon",
+    "tagline": "Draws the subject of your photo as one small mark in glowing crayon lines on black paper.",
+    "look": "Your photo stays; the subject is reduced to its key pose, proportion or silhouette and drawn in crayon, pastel and oil-pastel lines on black or deep-toned paper. The lines wobble, break and go over themselves, like a memory someone jotted down by hand. Soft bright colours such as pink, coral, lavender, powder blue, mint and warm yellow are not filled in but scattered like points of light and crayon crumbs, with perhaps a few stars, rings or tiny geometric marks. The mark is small in a wide field of dark space, and any text is a single tiny hand-printed line.",
+    "traits": ["Dark paper", "Coloured crayon lines", "Childlike strokes", "Glowing traces", "Small emblem"],
+    "good": [
+      "Subjects recognisable by pose or silhouette: a dancer, a sitting cat, a lone tree",
+      "Buildings or objects with a distinctive shape: a lighthouse, a Ferris wheel, a guitar",
+      "Photos you want as a night-time, fragrance-brand or children's-book style mark"
+    ],
+    "poor": [
+      "Uses that need a light, bright background, since the ground here is always dark",
+      "Photos that rely on detail or texture: precise products, realistic portraits, intricate surfaces",
+      "Requests for a full illustration, a commercial cartoon logo, 3D or smooth vector work"
+    ]
+  },
+  "ja": {
+    "name": "夜色のクレヨン",
+    "tagline": "黒い紙に、光るようなクレヨンの色線で写真の主役を小さなマークとして描きます。",
+    "look": "元の写真は残し、主役はいちばん大事な姿勢、比率、シルエットだけにして、黒や濃い色の紙の上にクレヨン、パステル、オイルパステルのような色線で描きます。線は少し震え、途切れ、何度もなぞられて、誰かが紙に残したひと筆の記憶のようです。ピンク、コーラル、ラベンダー、パウダーブルー、ミント、暖かな黄色といった柔らかく明るい色は塗りつぶさず、散らばった光の粒やクレヨンのかけらのように置かれ、星や円、小さな幾何学記号が添えられることもあります。マークは小さく、まわりは広い黒の余白で、文字があってもごく小さな手刷り風の一行だけです。",
+    "traits": ["暗い紙", "クレヨンの色線", "子どものような筆致", "光る痕跡", "小さなマーク"],
+    "good": [
+      "姿勢やシルエットで一目でわかる主役：踊る人、座る猫、一本の木",
+      "形に特徴のある建物や物：灯台、観覧車、ギター",
+      "夜の雰囲気や香水ブランド、絵本のような小さなマークにしたい写真"
+    ],
+    "poor": [
+      "明るく淡い地色が必要な用途（地はいつも暗い色です）",
+      "細部や質感が大事な写真：精密な製品、写実的な肖像、複雑な模様",
+      "完成したイラスト、商業キャラクターのロゴ、3D、なめらかなベクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "밤빛 크레용",
+    "tagline": "검은 종이 위에 빛나는 듯한 크레용 색선으로 사진 속 주인공을 작은 마크로 그립니다.",
+    "look": "원본 사진은 남기고, 주인공은 핵심 자세나 비례, 실루엣만 남겨 검거나 어두운 종이에 크레용, 파스텔, 오일파스텔 같은 색선으로 그립니다. 선은 살짝 떨리고 끊기고 여러 번 덧그려져, 누군가 종이에 남긴 한 줄의 기억처럼 보입니다. 분홍, 코랄, 라벤더, 파우더 블루, 민트, 따뜻한 노랑 같은 부드럽고 밝은 색은 칠하지 않고 흩어진 빛 알갱이와 크레용 부스러기처럼 놓이며, 별이나 고리, 작은 기하학 기호가 곁들여지기도 합니다. 마크는 작고 주변은 넓은 검은 여백이며, 글자가 있어도 아주 작은 손인쇄 느낌의 한 줄뿐입니다.",
+    "traits": ["어두운 종이", "크레용 색선", "아이 같은 붓질", "빛나는 흔적", "작은 마크"],
+    "good": [
+      "자세나 실루엣으로 바로 알아보는 주인공: 춤추는 사람, 앉아 있는 고양이, 외딴 나무",
+      "모양이 독특한 건물이나 물건: 등대, 대관람차, 기타",
+      "밤 분위기나 향수 브랜드, 그림책 같은 작은 마크로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "밝고 연한 바탕이 필요한 용도(바탕은 늘 어둡습니다)",
+      "디테일과 질감이 중요한 사진: 정밀한 제품, 사실적인 인물, 복잡한 무늬",
+      "완성형 일러스트, 상업 캐릭터 로고, 3D, 매끈한 벡터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "طباشير الليل الملوّن",
+    "tagline": "يرسم العنصر الرئيسي في صورتك علامةً صغيرة بخطوط طباشير ملوّنة كأنها تتوهج على ورق أسود.",
+    "look": "تبقى صورتك، ويُختصر العنصر في وضعيته أو نسبه أو ظلّه الأساسي، ويُرسم بخطوط ملوّنة تشبه أقلام الشمع والباستيل والباستيل الزيتي على ورق أسود أو داكن. الخطوط ترتعش وتنقطع ويُعاد رسمها، كذكرى خطّها أحدهم بيده على الورق. الألوان زاهية ناعمة كالوردي والمرجاني والخزامي والأزرق الفاتح والنعناعي والأصفر الدافئ، لا تملأ الشكل بل تتناثر كنقاط ضوء وفتات طباشير، وقد تُضاف بضع نجوم أو حلقات أو رموز هندسية صغيرة. العلامة صغيرة وسط فراغ داكن واسع، وإن وُجد نص فهو سطر واحد صغير جداً بطابع الطباعة اليدوية.",
+    "traits": ["ورق داكن", "خطوط طباشير ملوّنة", "ضربات طفولية", "آثار متوهجة", "علامة صغيرة"],
+    "good": [
+      "عناصر تُعرف من وضعيتها أو ظلّها: راقصة، قطة جالسة، شجرة وحيدة",
+      "مبانٍ أو أغراض بشكل مميز: منارة، عجلة دوّارة، غيتار",
+      "صور تريدها علامة بأجواء ليلية أو كشعار عطر أو رسم من كتاب أطفال"
+    ],
+    "poor": [
+      "استخدامات تحتاج خلفية فاتحة مشرقة، فالخلفية هنا داكنة دائماً",
+      "صور تعتمد على التفاصيل والملمس: منتجات دقيقة، صور شخصية واقعية، أسطح معقدة",
+      "طلب رسم كامل أو شعار كرتوني تجاري أو مظهر ثلاثي الأبعاد أو رسوم متجهية ناعمة"
+    ]
+  }
+}

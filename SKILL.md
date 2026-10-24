@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-274
-description: "Create XXD Panel 274 raster artwork: a faithful photograph paired with one small luminous crayon symbol on deep paper, naive color marks and a large black field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-274 or asks for this 夜色蜡笔 style."
+description: "XXD Panel 274｜Night Crayon: keeps the photo and draws its most recognisable subject as one small artist's mark on black or deep-toned paper, in glowing, childlike crayon, pastel and oil-pastel lines that wobble, break and repeat — soft candy colours such as pink, coral, lavender, powder blue, mint and warm yellow used as scattered light, chalk traces and crayon fragments rather than fills — with a few stars, rings or tiny geometric marks, lots of dark empty space and, if any text, a very small hand-printed word. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-274 or asks for a crayon-on-black symbol, glowing naive pastel logo or dark-paper doodle mark from a photo."
 ---
 
 # XXD Panel 274
